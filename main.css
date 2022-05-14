@@ -1,0 +1,9 @@
+body {
+    background-color: grey;
+}
+#test{
+    width:25%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
